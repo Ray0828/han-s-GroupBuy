@@ -1,0 +1,5 @@
+{
+  "name": "團購小幫手 (GroupBuy Pro)",
+  "description": "A mobile-first, offline-capable group buying management tool. Track orders, payments, and print summaries without internet access.",
+  "requestFramePermissions": []
+}
